@@ -1,6 +1,5 @@
 #root {
-  display: flex;
-  justify-content: space-between;
+  
   position: relative;
 }
 
@@ -8,8 +7,8 @@
   background-color: red;
   width: 250px;
   height: 250px;
-  position:absolute;
-  top: 75px; left: 75px;
+  position:relative;
+  top: 1100px; left: 75px;
   z-index: 4;
 }
 
@@ -17,8 +16,8 @@
   background-color: green;
   width: 200px;
   height: 200px;
-  position:absolute;
-  top: 100px; left: 100px;
+  position:relative;
+  top: 825px; left: 100px;
   z-index: 5;
 }
 
@@ -26,8 +25,8 @@
   background-color: blue;
   width: 150px;
   height: 150px;
-  position:absolute;
-  top: 125px; left: 125px;
+  position:relative;
+  top: 350px; left: 125px;
   z-index: 6;
 }
 
@@ -35,8 +34,8 @@
   background-color: yellow;
   width: 100px;
   height: 100px;
-  position:absolute;
-  top: 150px; left: 150px;
+  position:relative;
+  top: 225px; left: 150px;
   z-index: 7;
 }
 
@@ -44,8 +43,8 @@
   background-color: black;
   width: 50px;
   height: 50px;
-  position:absolute;
-  top: 175px; left: 175px;
+  position:relative;
+  top: 950px; left: 175px;
   z-index: 8;
 }
 
@@ -53,8 +52,8 @@
   background-color: purple;
   width: 300px;
   height: 300px;
-  position:absolute;
-  top: 50px; left: 50px;
+  position:relative;
+  top: 575px; left: 50px;
   z-index: 3;
 }
 
@@ -62,8 +61,8 @@
   background-color: darkblue;
   width: 350px;
   height: 350px;
-  position:absolute;
-  top: 25px; left: 25px;
+  position:relative;
+  top: 0px; left: 25px;
   z-index: 2;
 }
 
@@ -72,6 +71,6 @@
   width: 400px;
   height: 400px;
   position:absolute;
-  top: 0px; left: 0px;
+  top: 1025px; left: 0px;
   z-index: 1;
 }
